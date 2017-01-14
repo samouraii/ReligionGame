@@ -1,0 +1,16 @@
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\ReligionGame.exe
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\ReligionGame.pdb
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.csprojResolveAssemblyReference.cache
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.exe
+c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.pdb
