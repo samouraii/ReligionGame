@@ -1,2 +1,6 @@
 c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGameContent\obj\x86\Debug\ReligionGameContent.contentprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGameContent\obj\x86\Debug\ReligionGameContent.contentprojResolveAssemblyReference.cache
+=======
+C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGameContent\obj\x86\Debug\ReligionGameContent.contentprojResolveAssemblyReference.cache
+>>>>>>> 46d257e02633d58d3043fbed49eb493bd940f65a

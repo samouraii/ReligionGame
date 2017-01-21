@@ -15,6 +15,8 @@ namespace ReligionGame
 {
     abstract class Batiment
     {
+        public event System.EventHandler construction;
+
         public string nom
         {
             get
@@ -45,9 +47,9 @@ namespace ReligionGame
             }
             set
             {
-
+                attente = value;
             }
         }
-    
+      
     }
 }
