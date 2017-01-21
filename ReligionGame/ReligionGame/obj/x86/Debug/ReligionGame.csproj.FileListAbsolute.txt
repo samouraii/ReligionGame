@@ -14,3 +14,7 @@ c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\Relig
 c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.exe
 c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.pdb
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.csprojResolveAssemblyReference.cache
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.exe
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.pdb
