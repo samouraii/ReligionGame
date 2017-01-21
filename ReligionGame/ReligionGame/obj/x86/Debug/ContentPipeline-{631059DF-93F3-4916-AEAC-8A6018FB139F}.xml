@@ -8,15 +8,15 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGameContent\</RootDirectory>
-      <LoggerRootDirectory>c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\adrie\onedrive\documents\visual studio 2015\Projects\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2016-10-11T22:16:17.3152841+02:00</Value>
+        <Value>2017-01-12T21:31:34.3204245+01:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
