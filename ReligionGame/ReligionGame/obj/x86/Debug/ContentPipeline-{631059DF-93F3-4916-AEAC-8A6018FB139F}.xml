@@ -8,26 +8,15 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-<<<<<<< HEAD
       <RootDirectory>C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGameContent\</RootDirectory>
       <LoggerRootDirectory>C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\</LoggerRootDirectory>
       <IntermediateDirectory>C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\</IntermediateDirectory>
       <OutputDirectory>C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Content\</OutputDirectory>
-=======
-      <RootDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Content\</OutputDirectory>
->>>>>>> 46d257e02633d58d3043fbed49eb493bd940f65a
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-<<<<<<< HEAD
         <Value>2017-01-13T01:09:40.8475491+01:00</Value>
-=======
-        <Value>2017-01-12T21:31:34.3204245+01:00</Value>
->>>>>>> 46d257e02633d58d3043fbed49eb493bd940f65a
       </Assembly>
     </Assemblies>
   </Asset>
