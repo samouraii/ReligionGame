@@ -15,7 +15,7 @@ namespace ReligionGame
 {
     abstract class Batiment
     {
-        public event System.EventHandler construction;
+        public event EventHandler construction;
 
         public string nom
         {
@@ -48,6 +48,43 @@ namespace ReligionGame
             set
             {
                 attente = value;
+            }
+        }
+        public class Batiment_religieux
+        {
+            
+            public int niveau
+            {
+                get
+                {
+                    return niveau;
+                }
+                set
+                {
+                    niveau = value;
+                }
+            }
+            public string religion
+            {
+                get
+                {
+                    return religion;
+                }
+                set
+                {
+                    religion = value;
+                }
+            }
+            public int OrGénéré
+            {
+                get
+                {
+                    return OrGénéré;
+                }
+                set
+                {
+                    OrGénéré = niveau*niveau*20;
+                }
             }
         }
       
