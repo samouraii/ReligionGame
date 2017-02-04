@@ -37,3 +37,15 @@ C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\Religion
 C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.exe
 C:\Users\CRS Mons 2016\Desktop\religion games\ReligionGame\ReligionGame\ReligionGame\obj\x86\Debug\ReligionGame.pdb
 >>>>>>> 46d257e02633d58d3043fbed49eb493bd940f65a
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\ReligionGame.exe
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\ReligionGame.pdb
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\CRS Mons 2016\Desktop\Nouveau dossier\ReligionGame\ReligionGame\ReligionGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml

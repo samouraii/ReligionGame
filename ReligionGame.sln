@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReligionGame", "ReligionGame\ReligionGame\ReligionGame.csproj", "{AA7487DC-1535-4B9F-A192-702637A6AB7A}"
-EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ReligionGameContent", "ReligionGame\ReligionGameContent\ReligionGameContent.contentproj", "{631059DF-93F3-4916-AEAC-8A6018FB139F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +15,6 @@ Global
 		{AA7487DC-1535-4B9F-A192-702637A6AB7A}.Debug|x86.Build.0 = Debug|x86
 		{AA7487DC-1535-4B9F-A192-702637A6AB7A}.Release|x86.ActiveCfg = Release|x86
 		{AA7487DC-1535-4B9F-A192-702637A6AB7A}.Release|x86.Build.0 = Release|x86
-		{631059DF-93F3-4916-AEAC-8A6018FB139F}.Debug|x86.ActiveCfg = Debug|x86
-		{631059DF-93F3-4916-AEAC-8A6018FB139F}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
